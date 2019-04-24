@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name     = 'cssmin'
-  s.version  = '1.0.3'
+  s.version  = '1.0.4'
   s.author   = 'Ryan Grove'
   s.email    = 'ryan@wonko.com'
   s.homepage = 'https://github.com/rgrove/cssmin/'
