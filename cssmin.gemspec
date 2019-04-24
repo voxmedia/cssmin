@@ -14,7 +14,6 @@ Gem::Specification.new do |s|
   s.files        = `git ls-files`.split($/)
   s.test_files   = s.files.grep(%r{^(test|spec|features)/})
   s.require_path = 'lib'
-  s.has_rdoc     = true
 
   s.required_ruby_version = '>= 1.8.6'
 
